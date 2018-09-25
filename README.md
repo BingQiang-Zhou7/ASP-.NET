@@ -3,7 +3,7 @@
 1. Exp-02 Exp-03(For all experiment which use database)  
    The configuration file(Web.config) need configure connection string for database connection.   
    And you can visit the following blogs to help you configure database connection string.   
-   (1)[https://blog.csdn.net/dodream/article/details/4887476](https://blog.csdn.net/dodream/article/details/4887476)
+   (1)[https://blog.csdn.net/dodream/article/details/4887476](https://blog.csdn.net/dodream/article/details/4887476)   
    (2)[https://blog.csdn.net/qq_26819733/article/details/70231533](https://blog.csdn.net/qq_26819733/article/details/70231533)
 2. Exp-0201(The second small experiment in second experiment) 
 Database need configure Full-Text Search for Field [Name]
