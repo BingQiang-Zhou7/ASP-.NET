@@ -8,7 +8,7 @@
 2. Exp-0201(The second small experiment in second experiment) 
 Database need configure Full-Text Search for Field [Name]
 And you can visit the following blogs which can help you comprehend Full-Text Search.  
-(1) [https://www.techrepublic.com/blog/data-center/adding-sql-full-text-search-to-an-existing-sql-server/](https://www.techrepublic.com/blog/data-center/adding-sql-full-text-search-to-an-existing-sql-server/)   
+(1) [https://www.techrepublic.com/blog/data-center/adding-sql-full-text-search-to-an-existing-sql-server/](https://www.techrepublic.com/blog/data-center/adding-sql-full-text-search-to-an-existing-sql-server/)     
 (2) [https://www.cnblogs.com/qianzf/p/7131741.html](https://www.cnblogs.com/qianzf/p/7131741.html)
 3. Feel free to contact me if you have any other problem for this project.But I suggest you not leave a message in GitHub issues, so that I can reply you in time, you can contact me by e-mail.(**bingqiang_zhou@qq.com**) 
    
