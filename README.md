@@ -1,4 +1,9 @@
 # ASP-.NET
+## Development environment
+   1. OS : Windows 1803 17134.285
+   2. IDE :  Visual Studio  15.8.5
+   3. .Net Framework : 4.5.2
+   4. Database : SQL Server 2012 Express
 ## Advice about getting this project.
 1. Exp-02 Exp-03(For all experiment which use database)  
    The configuration file(Web.config) need configure connection string for database connection.   
