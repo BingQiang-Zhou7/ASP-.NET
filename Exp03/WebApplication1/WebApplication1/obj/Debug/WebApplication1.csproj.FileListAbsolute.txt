@@ -33,3 +33,4 @@ E:\University course\ASP .NET\Exp03\WebApplication1\WebApplication1\obj\Debug\We
 E:\University course\ASP .NET\Exp03\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 E:\University course\ASP .NET\Exp03\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 E:\University course\ASP .NET\Exp03\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\University course\ASP .NET\Exp03\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
